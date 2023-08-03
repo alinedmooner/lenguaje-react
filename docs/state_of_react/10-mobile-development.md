@@ -1,9 +1,9 @@
 # Mobile Development
 
-## Capacitor
+- ## Capacitor
 
-## Expo
+- ## Expo
 
-## Ionic
+- ## Ionic
 
-## React Native
+- ## React Native

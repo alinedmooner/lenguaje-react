@@ -1,19 +1,19 @@
 # Meta Frameworks
 
-## Astro
+- ## Astro
 
-## Blitz
+- ## Blitz
 
-## Create React App
+- ## Create React App
 
-## Docusaurus
+- ## Docusaurus
 
-## Gatsby
+- ## Gatsby
 
-## Next.js
+- ## Next.js
 
-## Nextra
+- ## Nextra
 
-## Redwood
+- ## Redwood
 
-## Remix
+- ## Remix

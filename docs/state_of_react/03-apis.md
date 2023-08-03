@@ -1,19 +1,19 @@
 # Other APIs
 
-## createPortal
+- ## createPortal
 
-## createCOntext
+- ## createCOntext
 
-## forwardRef
+- ## forwardRef
 
-## lazy
+- ## lazy
 
-## memo
+- ## memo
 
-## startTransition
+- ## startTransition
 
-## createRoot
+- ## createRoot
 
-## hydrateRoot
+- ## hydrateRoot
 
-## React Server Components
+- ## React Server Components

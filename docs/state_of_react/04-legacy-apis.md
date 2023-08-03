@@ -1,8 +1,8 @@
 # Legacy APIs
 
-## cloneElement
+- ## cloneElement
 
-## Class Components
+- ## Class Components
 
-## createElement
+- ## createElement
 

@@ -1,19 +1,19 @@
 # State Management
 
-## Jotai
+- ## Jotai
 
-## MobX
+- ## MobX
 
-## Recoil
+- ## Recoil
 
-## Redux
+- ## Redux
 
-## Redux Toolkit
+- ## Redux Toolkit
 
-## useState
+- ## useState
 
-## XState
+- ## XState
 
-## Zustand
+- ## Zustand
 
 

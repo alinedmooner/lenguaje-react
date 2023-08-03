@@ -1,14 +1,14 @@
 # Data Loading
 
-## Apollo Client
+- ## Apollo Client
 
-## Relay
+- ## Relay
 
-## RTK Query
+- ## RTK Query
 
-## SWR
+- ## SWR
 
-## TanStack Query (React Query)
+- ## TanStack Query (React Query)
 
-## tRPC
+- ## tRPC
 
