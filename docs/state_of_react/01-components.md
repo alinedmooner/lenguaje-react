@@ -1,6 +1,6 @@
 # Components
 
-## Fragment
+- ## Fragment
 
 Lets you group elements without a wrapper node.
 
@@ -16,9 +16,9 @@ function App() {
 }
 ```
 
-## Profiler
+- ## Profiler
 
-## StrictMode
+- ## StrictMode
 
-## Suspense
+- ## Suspense
 
