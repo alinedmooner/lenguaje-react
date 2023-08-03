@@ -208,6 +208,103 @@
 
 ### Vue.js
 
+## Uses of React
+
+### Design Systems
+
+### Desktop Apps
+
+### Mobile Apps
+
+### Static Sites
+
+### Web Apps
+
+## React Versions
+
+### 16.x
+
+### 17.x
+
+### 18.x
+
+## React Usage
+
+### Professionally
+
+### As a student
+
+### As a hobby
+
+## Industry Sector
+
+### Agriculture
+
+### Automotive
+
+### Construction
+
+### Consulting & Services
+
+### Cyber Security
+
+### Ecommerce & Retail
+
+### Education
+
+### Energy
+
+### Entertaiment
+
+### Finance
+
+## Application Patterns
+
+### Progressive Hydration
+
+### Static Site Generation (SSG)
+
+### Multi-Page Application (MPA)
+
+### Partial Hydration
+
+### Islands Architecture
+
+### Server-Side Rendering (SSR)
+
+### Single Page Application (SPA)
+
+### Edge Rendering
+
+### Incremental Static Generation
+
+### Streaming SSR
+
+### Progressive Enhancement
+
+### Resumability
+
+## React Pain Points
+
+### TypeScript
+
+### Memoization
+
+### Testing
+
+### Keeping client bundle sizes down
+
+### Forms
+
+### CSS & Styling
+
+### Data loading and async operations
+
+### State Management
+
+### Synthetic Events
+
+### Animations
 
 
 
